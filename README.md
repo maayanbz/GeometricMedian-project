@@ -23,6 +23,3 @@ gm.AccurateMedianV2(eps=0.01, verbose=0.1)
 if d <= 3:
     plot_data(A, gm.medians, step=100, show_data=True)
 ```
-
-## TODO
-1. ...
